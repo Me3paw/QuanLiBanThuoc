@@ -9,7 +9,6 @@
 - [React 19](https://react.dev)
 - [Vite](https://vitejs.dev)
 - [TailwindCSS](https://tailwindcss.com)
-- [React Icons](https://react-icons.github.io/react-icons/)
 - [React Router v7](https://reactrouter.com/)
 
 ---
