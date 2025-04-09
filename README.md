@@ -1,6 +1,6 @@
 # 💊 HỆ THỐNG BÁN THUỐC HUY PHÚC — FRONTEND
 
-Đây là giao diện người dùng (frontend) cho hệ thống quản lý bán thuốc HUY PHÚC, được xây dựng bằng **React 19**, **Vite**, **TailwindCSS**, và **React Router v7**.
+Đây là hệ thống quản lý bán thuốc HUY PHÚC, được xây dựng bằng **React 19**, **Vite**, **TailwindCSS**, và **React Router v7**.
 
 ---
 
